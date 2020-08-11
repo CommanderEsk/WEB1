@@ -9,11 +9,11 @@ h1{
 }
 .saw
 {
-  color: red;
+color: blue;color
 }
 #active
 {
-  color: blue;
+color: blue;
 }
 
 ol{
@@ -21,6 +21,7 @@ border-right:1px solid gray;
 width: 200px;
 margin:0;
 padding: 35px;
+
 }
 
 body{
